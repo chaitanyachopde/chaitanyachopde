@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/banner.png" alt="Chaitanya's Banner" />
+</p>
+
+# 💫 About Me:
+🚀 Frontend Developer | Creative Coder | Lifelong Learner<br><br>...
+
+
 # 💫 About Me:
 🚀 Frontend Developer | Creative Coder | Lifelong Learner<br><br>🔧 Tech Stack: HTML • CSS • JavaScript • TypeScript • React • Next.js<br>🌱 Currently Learning: Advanced React Patterns & Tailwind CSS<br>💡 Exploring: UI/UX Design and Web Performance Optimization<br>📫 Reach Me: chaitanyachopde14@gmail.com
 
