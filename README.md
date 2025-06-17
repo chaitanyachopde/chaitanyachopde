@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/banner.png" alt="Chaitanya's Banner" />
+  <img src="[https://raw.githubusercontent.com/username/repo/main/assets/banner.png](https://github.com/chaitanyachopde/chaitanyachopde/blob/main/Black%20White%20Modern%20Geometric%20Glitch%20Graphic%20Designer%20Linkedin%20Banner%20%20(1).png)" alt="Chaitanya's Banner" />
 </p>
 
 
