@@ -1,4 +1,5 @@
-![logo](https://github.com/chaitanyachopde/chaitanyachopde/blob/main/Black%20White%20Modern%20Geometric%20Glitch%20Graphic%20Designer%20Linkedin%20Banner%20%20(1).png)
+![gif banner](https://github.com/chaitanyachopde/chaitanyachopde/blob/main/banner%20gif.gif)
+
 # 💫 About Me:
 🚀 Frontend Developer | Creative Coder | Lifelong Learner<br><br>🔧 Tech Stack: HTML • CSS • JavaScript • TypeScript • React • Next.js<br>🌱 Currently Learning: Advanced React Patterns & Tailwind CSS<br>💡 Exploring: UI/UX Design and Web Performance Optimization<br>📫 Reach Me: chaitanyachopde14@gmail.com
 
