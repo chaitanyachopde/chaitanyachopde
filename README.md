@@ -1,4 +1,4 @@
-![gif banner](https://github.com/chaitanyachopde/chaitanyachopde/blob/main/banner%20gif.gif)
+![gif banner](https://github.com/chaitanyachopde/chaitanyachopde/blob/main/bannnre%203%20gif.gif)
 
 # 💫 About Me:
 🚀 Frontend Developer | Creative Coder | Lifelong Learner<br><br>🔧 Tech Stack: HTML • CSS • JavaScript • TypeScript • React • Next.js<br>🌱 Currently Learning: Advanced React Patterns & Tailwind CSS<br>💡 Exploring: UI/UX Design and Web Performance Optimization<br>📫 Reach Me: chaitanyachopde14@gmail.com
