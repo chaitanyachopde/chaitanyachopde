@@ -14,6 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=chaitanyachopde&theme=dark&hide_border=false)<br/>
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chaitanyachodpe&theme=dark-smoky" alt="GitHub Streak" /></a>
 
 
