@@ -17,3 +17,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chaitanyachodpe&theme=dark-smoky" alt="GitHub Streak" /></a>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyachopde)](https://git.io/streak-stats)
