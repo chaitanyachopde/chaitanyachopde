@@ -13,8 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=chaitanyachopde&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chaitanyachopde&theme=dark&hide_border=false)<br/>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chaitanyachodpe&theme=dark-smoky" alt="GitHub Streak" /></a>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyachopde)](https://git.io/streak-stats)
